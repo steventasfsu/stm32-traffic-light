@@ -64,6 +64,6 @@ The software integrates interrupts for sensor and button input, and uses the Sys
 ---
 
 ## 📄 Full Project Report
-[Click here to view the Final Project Report](Final_Project_Report.pdf)
+[Final Project Report](Final_Project_Report.pdf)
 
 
