@@ -35,4 +35,23 @@ The software integrates interrupts for sensor and button input, and uses the Sys
   - 2 Yellow  
   - 2 Clear  
 - 2 × 10 kΩ resistors (for buttons)  
-- 8 × 330 Ω resistors (for LEDs)  
+- 8 × 330 Ω resistors (for LEDs)
+
+---
+
+## **Hardware Layout**
+![Hardware Layout 1](images/traffic-light-layout-1.png)
+![Hardware Layout 2](images/traffic-light-layout-2.png)
+
+---
+
+## **Wiring Schematic**
+![Wiring Schematic](images/traffic-light-wiring-schematic.png)
+
+---
+
+## **Flowchart**
+![Flowchart](images/traffic-light-flowchart.png)
+
+---
+
