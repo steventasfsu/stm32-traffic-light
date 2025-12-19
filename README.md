@@ -1,15 +1,17 @@
-# **SFSU ENGR 478 — Final Project**  
-## **Traffic Light System — Group C-Note**  
+# **SFSU ENGR 478 — Final Project**
 
-### **Team Members**  
+## **Traffic Light System**
+
+### **Group: C-Note**
 - Bryan Thorne  
 - Steven Ta  
 - Kevin Thai  
 
-### **Acknowledgements**  
+### **Acknowledgements**
 Project completed with guidance from:  
 - **Dr. Xiaorong Zhang**  
 - **Prof. George Anwar**  
+
 
 ---
 
