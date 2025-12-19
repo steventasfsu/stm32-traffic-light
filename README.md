@@ -5,7 +5,7 @@
 ### **Group: C-Note**
 - Bryan Thorne (Lead Design Engineer) 
 - Steven Ta (Design Engineer) 
-- Kevin Thai (Project Manger, Design Engineer) 
+- Kevin Thai (Project Manager, Design Engineer) 
 
 ### **Acknowledgements**
 Project completed with guidance from:  
