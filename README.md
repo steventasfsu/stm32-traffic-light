@@ -1,7 +1,14 @@
+**ENGR 478 Final Project: Traffic Light**
+
+**SFSU Group: C-Note**
+Bryan Thorne
+Steven Ta
+Kevin Thai
+
 # stm32-traffic-light
 Embedded traffic light controller built on an STM32 Nucleo-L476RG board. Includes dual traffic signals, pedestrian walk lights, IR sensors, and button inputs. Implements a finite-state machine, SysTick timing, and real-world intersection behavior.
 
-1	Introduction<img width="468" height="66" alt="image" src="https://github.com/user-attachments/assets/a4850c9c-9c1f-41db-a706-2a6240015d27" />
+**Introduction**
 
 The goal of our project was to create a traffic light using the STM32L476RG board. We made two different traffic lights that were used to simulate an intersection of two one-way roads. We also wanted to make it more realistic by adding in a pedestrian walk light. We used an IR break beam sensor to detect the presence of the car, and we used a push button for the pedestrians. For the code, we integrated the use of interrupts for the sensors and buttons, then we used the systick timer for any delay that we needed. Our motivation came from seeing these types of intersections in SF and wondering how we could use the STM32 board to make it. <img width="468" height="136" alt="image" src="https://github.com/user-attachments/assets/051d2a88-216b-4f55-9278-a0dc5d27248c" />
 
