@@ -9,8 +9,8 @@
 
 ### **Acknowledgements**
 Project completed with guidance from:  
-- **Dr. Xiaorong Zhang**  
-- **Prof. George Anwar**  
+- Dr. Xiaorong Zhang    
+- Prof. George Anwar    
 
 
 ---
