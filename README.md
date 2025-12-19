@@ -1,27 +1,38 @@
-**SFSU ENGR 478 Final Project: Traffic Light**
+# **SFSU ENGR 478 — Final Project**  
+## **Traffic Light System — Group C-Note**  
 
-**Group: C-Note**  
-Bryan Thorne  
-Steven Ta  
-Kevin Thai  
-Supervised by Dr. Xiaorong Zhang, Prof. George Anwar
+### **Team Members**  
+- Bryan Thorne  
+- Steven Ta  
+- Kevin Thai  
 
-# stm32-traffic-light
+### **Acknowledgements**  
+Project completed with guidance from:  
+- **Dr. Xiaorong Zhang**  
+- **Prof. George Anwar**  
+
+---
+
+# **stm32-traffic-light**  
 Embedded traffic light controller built on an STM32 Nucleo-L476RG board. Includes dual traffic signals, pedestrian walk lights, IR sensors, and button inputs. Implements a finite-state machine, SysTick timing, and real-world intersection behavior.
 
-**Introduction**
+---
 
-The goal of our project was to create a traffic light using the STM32L476RG board. We made two different traffic lights that were used to simulate an intersection of two one-way roads. We also wanted to make it more realistic by adding in a pedestrian walk light. We used an IR break beam sensor to detect the presence of the car, and we used a push button for the pedestrians. For the code, we integrated the use of interrupts for the sensors and buttons, then we used the systick timer for any delay that we needed. Our motivation came from seeing these types of intersections in SF and wondering how we could use the STM32 board to make it.
+## **Introduction**  
+The goal of this project was to create a traffic light system using the STM32L476RG board. We made two different traffic lights that were used to simulate an intersection of two one-way roads. To make the system more realistic, we added a pedestrian walk light. We used IR break beam sensors to detect vehicles and push buttons to simulate pedestrians.  
 
-**Components: **
+The software integrates interrupts for sensor and button input, and uses the SysTick timer to handle state timing. Our motivation came from seeing intersections throughout San Francisco and wanting to understand how embedded systems can replicate real traffic behavior.
 
-•	2 IR break beam sensors  
-•	2 Push buttons  
-•	Wiring  
-•	8 LEDs  
-    o	2 Red  
-    o	2 Green  
-    o	2 Yellow  
-    o	2 Clear  
-•	2 10kΩ resistors (for the button)  
-•	8 330Ω resistors (for the LEDs)
+---
+
+## **Components**  
+- 2 IR break beam sensors  
+- 2 Push buttons  
+- Wiring  
+- 8 LEDs  
+  - 2 Red  
+  - 2 Green  
+  - 2 Yellow  
+  - 2 Clear  
+- 2 × 10 kΩ resistors (for buttons)  
+- 8 × 330 Ω resistors (for LEDs)  
