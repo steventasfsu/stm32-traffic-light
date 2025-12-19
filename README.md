@@ -3,9 +3,9 @@
 ## **Traffic Light System**
 
 ### **Group: C-Note**
-- Bryan Thorne  
-- Steven Ta  
-- Kevin Thai  
+- Bryan Thorne (Lead Design Engineer) 
+- Steven Ta (Design Engineer) 
+- Kevin Thai (Project Manger, Design Engineer) 
 
 ### **Acknowledgements**
 Project completed with guidance from:  
