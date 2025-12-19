@@ -40,19 +40,22 @@ The software integrates interrupts for sensor and button input, and uses the Sys
 ---
 
 ## **Hardware Layout**
-![Hardware Layout 1](traffic-light-layout-1.png)
-![Hardware Layout 2](traffic-light-layout-2.png)
+<p float="left">
+  <img src="traffic-light-layout-1.png" width="300"/>
+  <img src="traffic-light-layout-2.png" width="300"/>
+</p>
 
 ---
 
 ## **Wiring Schematic**
-![Wiring Schematic](traffic-light-wiring-schematic.png)
+<img src="traffic-light-wiring-schematic.png" width="500"/>
 
 ---
 
 ## **Flowchart**
-![Flowchart](traffic-light-flowchart.png)
+<img src="traffic-light-flowchart.png" width="500"/>
 
 ---
+
 
 
