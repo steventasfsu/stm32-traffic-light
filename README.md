@@ -27,8 +27,9 @@ The software integrates interrupts for sensor and button input, and uses the Sys
 
 ---
 
-### 🎥 Demo Video
-https://www.youtube.com/watch?v=8yJbjzWUVms
+## 🎥 Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/8yJbjzWUVms/0.jpg)](https://www.youtube.com/watch?v=8yJbjzWUVms)
 
 ## **Components**  
 - 2 IR break beam sensors  
