@@ -63,6 +63,8 @@ The software integrates interrupts for sensor and button input, and uses the Sys
 
 ---
 
-## 📄 Final Project Report
-[Download PDF](Final_Project_Report.pdf)
+## 📄 Full Project Report
+[View/Download Final Project Report](Final_Project_Report.pdf)
+*Note: PDF preview works best on desktop. Mobile users may see a download prompt.*
+
 
