@@ -14,13 +14,13 @@ The goal of our project was to create a traffic light using the STM32L476RG boar
 
 **Components: **
 
-•	2 IR break beam sensors
-•	2 Push buttons
-•	Wiring 
-•	8 LEDs
-o	2 Red
-o	2 Green
-o	2 Yellow
-o	2 Clear 
-•	2 10kΩ resistors (for the button)
+•	2 IR break beam sensors  
+•	2 Push buttons  
+•	Wiring  
+•	8 LEDs  
+  o	2 Red  
+  o	2 Green  
+  o	2 Yellow  
+  o	2 Clear  
+•	2 10kΩ resistors (for the button)  
 •	8 330Ω resistors (for the LEDs)
