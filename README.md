@@ -10,7 +10,7 @@ Embedded traffic light controller built on an STM32 Nucleo-L476RG board. Include
 
 **Introduction**
 
-The goal of our project was to create a traffic light using the STM32L476RG board. We made two different traffic lights that were used to simulate an intersection of two one-way roads. We also wanted to make it more realistic by adding in a pedestrian walk light. We used an IR break beam sensor to detect the presence of the car, and we used a push button for the pedestrians. For the code, we integrated the use of interrupts for the sensors and buttons, then we used the systick timer for any delay that we needed. Our motivation came from seeing these types of intersections in SF and wondering how we could use the STM32 board to make it. <img width="468" height="136" alt="image" src="https://github.com/user-attachments/assets/051d2a88-216b-4f55-9278-a0dc5d27248c" />
+The goal of our project was to create a traffic light using the STM32L476RG board. We made two different traffic lights that were used to simulate an intersection of two one-way roads. We also wanted to make it more realistic by adding in a pedestrian walk light. We used an IR break beam sensor to detect the presence of the car, and we used a push button for the pedestrians. For the code, we integrated the use of interrupts for the sensors and buttons, then we used the systick timer for any delay that we needed. Our motivation came from seeing these types of intersections in SF and wondering how we could use the STM32 board to make it.
 
 **Components: **
 
@@ -24,4 +24,3 @@ o	2 Yellow
 o	2 Clear 
 •	2 10kΩ resistors (for the button)
 •	8 330Ω resistors (for the LEDs)
-<img width="468" height="207" alt="image" src="https://github.com/user-attachments/assets/bd615c19-672e-4fd2-a87c-9e85f8d771eb" />
