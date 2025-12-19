@@ -1,8 +1,8 @@
 **ENGR 478 Final Project: Traffic Light**
 
 **SFSU Group: C-Note**
-Bryan Thorne
-Steven Ta
+Bryan Thorne  
+Steven Ta  
 Kevin Thai
 
 # stm32-traffic-light
